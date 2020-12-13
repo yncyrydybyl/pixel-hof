@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":80,
  "infinite":false,
  "layers":[
@@ -88,11 +81,11 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/cija_32x32_expansion for Pipoya_CC0.tsx"
+         "source":"tiles.tsx"
         }, 
         {
          "firstgid":1996,
-         "source":"tiles-rotated.json"
+         "source":"tiles-rot.tsx"
         }],
  "tilewidth":32,
  "type":"map",
