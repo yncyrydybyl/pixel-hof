@@ -1,0 +1,14 @@
+{ "columns":133,
+ "image":"rpg-tiles.png",
+ "imageheight":480,
+ "imagewidth":4256,
+ "margin":0,
+ "name":"cija_32x32_expansion for Pipoya_CC0_CCLW",
+ "spacing":0,
+ "tilecount":1995,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
