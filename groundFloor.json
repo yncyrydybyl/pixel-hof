@@ -144,7 +144,7 @@
         {
          "columns":15,
          "firstgid":1,
-         "image":"rpg-tiles-rotated.png",
+         "image":"tiles/cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":480,
          "margin":0,
@@ -1499,7 +1499,7 @@
         {
          "columns":16,
          "firstgid":1996,
-         "image":"rpg_maker_vx_ace___items_by_ayene_chan_davng1k.png",
+         "image":"tiles/rpg_maker_vx_ace___items_by_ayene_chan_davng1k.png",
          "imageheight":320,
          "imagewidth":512,
          "margin":0,
@@ -2593,7 +2593,7 @@
         {
          "columns":4,
          "firstgid":2156,
-         "image":"nerdhof-tiles.png",
+         "image":"tiles/nerdhof-tiles.png",
          "imageheight":512,
          "imagewidth":128,
          "margin":0,
