@@ -229,6 +229,11 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
+                 "value":"https:\/\/shin.nerdhof.garden"
+                }, 
+                {
+                 "name":"openWebsiteOld",
+                 "type":"string",
                  "value":"https:\/\/online-go.com\/group\/7654"
                 }],
          "type":"tilelayer",
