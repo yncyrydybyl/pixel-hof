@@ -265,7 +265,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/m.twitch.tv\/nerdhof"
+                 "value":"https:\/\/player.twitch.tv\/?nerdhof&parent=test.visit.at.wa-test.rc3.cccv.de"
                 }],
          "type":"tilelayer",
          "visible":true,
