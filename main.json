@@ -271,7 +271,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?channel=nerdhof&parent=test.visit.at.wa-test.rc3.cccv.de"
+                 "value":"https:\/\/player.twitch.tv\/?channel=nerdhof&parent=test.visit.at.wa-test.rc3.cccv.de&parent=visit.at.rc3.world&autoplay=true"
                 }],
          "type":"tilelayer",
          "visible":true,
