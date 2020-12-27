@@ -1989,19 +1989,6 @@
          "tilewidth":32
         }, 
         {
-         "columns":24,
-         "firstgid":2763,
-         "image":"tiles\/pandamaru_mv_nature1_by_schwarzenacht_d9k7n23.png",
-         "imageheight":768,
-         "imagewidth":768,
-         "margin":0,
-         "name":"pandamaru_mv_nature1_by_schwarzenacht_d9k7n23",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":13,
          "firstgid":2763,
          "image":"tiles\/rpg_maker_vx_ace___trees_by_ayene_chan_d7pd5eb.png",
