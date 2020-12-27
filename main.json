@@ -253,7 +253,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/generic-tech.json#start_nerdhof-garden}"
+                 "value":"{<lobby>\/maps\/generic-tech.json#start_nerdhof-garden}"
                 }],
          "type":"tilelayer",
          "visible":true,
