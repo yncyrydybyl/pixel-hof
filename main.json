@@ -253,7 +253,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/generic-tech.json#start_nerdhof-garden}"
+                 "value":"../2D-Welt-thueringen/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
