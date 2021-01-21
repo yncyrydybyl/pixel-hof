@@ -253,7 +253,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"../2D-Welt-thueringen/main.json"
+                 "value":"..\/..\/..\/..\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/brandenburg\/brandenburg.json#reentry-gransee\n"
                 }],
          "type":"tilelayer",
          "visible":true,
