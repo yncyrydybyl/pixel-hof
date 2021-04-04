@@ -193,7 +193,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"schlotze_ffirstloor.json#treppe_von_EG"
+                 "value":"schlotze_firstfloor.json#treppe_von_EG"
                 }],
          "type":"tilelayer",
          "visible":true,
