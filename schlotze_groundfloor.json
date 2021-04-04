@@ -53,11 +53,9 @@
                  "height":53,
                  "id":12,
                  "name":"boden innen",
-                 "offsetx":16,
-                 "offsety":16,
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":87,
                  "x":0,
                  "y":0
