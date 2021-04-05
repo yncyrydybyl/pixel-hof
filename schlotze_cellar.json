@@ -193,7 +193,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"schlotze_terrain.json#exit_vom_UG"
+                 "value":"schlotze_terrain.json#exit_vorne"
                 }],
          "type":"tilelayer",
          "visible":true,
