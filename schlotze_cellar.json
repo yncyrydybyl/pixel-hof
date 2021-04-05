@@ -193,7 +193,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"schlotze_groundfloor.json#treppe_von_UG"
+                 "value":"schlotze_groundfloor.json#exit_vom_UG"
                 }],
          "type":"tilelayer",
          "visible":true,
