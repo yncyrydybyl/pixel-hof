@@ -194,7 +194,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"schlotze_groundfloor.json#eingang_aussenkueche"
+                 "value":"schlotze_cellar.json#eingang_aussenkueche"
                 }],
          "type":"tilelayer",
          "visible":true,
