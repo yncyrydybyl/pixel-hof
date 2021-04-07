@@ -248,7 +248,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"schlotze_groundfloor.json#eingang_anbau"
+                 "value":"schlotze_cellar.json#eingang_anbau"
                 }],
          "type":"tilelayer",
          "visible":true,
